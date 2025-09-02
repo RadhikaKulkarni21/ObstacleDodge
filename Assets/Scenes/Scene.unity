@@ -639,7 +639,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8809195584095210199, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: timeToWait
-      value: 25
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 9148518797137039305, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: m_LocalScale.y
@@ -2667,7 +2667,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8809195584095210199, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: timeToWait
-      value: 45
+      value: 55
       objectReference: {fileID: 0}
     - target: {fileID: 9148518797137039305, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: m_LocalScale.y
@@ -3095,7 +3095,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8809195584095210199, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: timeToWait
-      value: 35
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 9148518797137039305, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: m_LocalScale.y
@@ -4813,7 +4813,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8809195584095210199, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: timeToWait
-      value: 55
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 9148518797137039305, guid: 1310ae69e032327479c6e56c2072c6cc, type: 3}
       propertyPath: m_LocalScale.y
