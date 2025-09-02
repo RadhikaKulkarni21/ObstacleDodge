@@ -8,7 +8,7 @@ public class Scorer : MonoBehaviour
         if(collision.gameObject.tag != "Hit")
         {
             hits++;
-            Debug.Log("You have collided " + hits + " times");
+            //Debug.Log("You have collided " + hits + " times");
         }
     }
 }
