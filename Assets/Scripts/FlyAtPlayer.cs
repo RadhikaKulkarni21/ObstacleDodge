@@ -5,9 +5,15 @@ public class FlyAtPlayer : MonoBehaviour
     [SerializeField] float maxDistanceDelta = 10f;
     [SerializeField] Transform player;
     Vector3 playerPosition;
-   
-    void Start()
+
+    //Awake -> start -> update
+    void Awake()
     {
+        gameObject.SetActive(false);
+    }
+
+    void Start()
+    {       
         playerPosition = player.transform.position;      
     }
 
