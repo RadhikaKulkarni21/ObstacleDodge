@@ -9,7 +9,7 @@ public class FlyAtPlayer : MonoBehaviour
     //Awake -> start -> update
     void Awake()
     {
-        gameObject.SetActive(false);
+        gameObject.SetActive(true);
     }
 
     void Start()
